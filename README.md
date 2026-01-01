@@ -10,7 +10,6 @@
 ---
 
 # 💫 About Me:
-- 🔭 Currently working on: **SkillSync – AI Career Tracker**  
 - 🌱 Exploring: **Framer Motion, AI Integrations, and Cloud Deployment**  
 - 💬 Ask me about: **Java, React, PHP, or Frontend Animations**  
 - 🎨 Passionate about blending **design and logic** to craft interactive, elegant interfaces using Framer Motion & modern UI frameworks  
